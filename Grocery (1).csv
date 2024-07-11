@@ -1,0 +1,924 @@
+,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8
+0,Year,Month,Store,Group,Product,Units,Revenue
+1,2019,August,south,milk,low fat,805,3187.8
+2,2019,March,south,ice cream,Edies,992,3412.48
+3,2019,January,east,milk,skim,712,1808.48
+4,2018,March,north,ice cream,Edies,904,2260
+5,2018,January,south,ice cream,Edies,647,2076.87
+6,2017,September,west,fruit,plums,739,1707.09
+7,2018,March,east,milk,low fat,974,2181.76
+8,2019,June,north,fruit,apples,615,1894.2
+9,2019,July,west,fruit,cherries,714,1856.4
+10,2018,May,south,cereal,Special K,703,1553.63
+11,2017,June,west,ice cream,Edies,528,2064.48
+12,2018,October,east,cereal,Raisin Bran,644,1809.64
+13,2017,June,south,fruit,grapes,919,2196.41
+14,2019,May,west,milk,skim,767,1932.84
+15,2019,June,west,cereal,Raisin Bran,984,1987.68
+16,2017,March,south,cereal,Raisin Bran,744,2217.12
+17,2019,September,east,ice cream,Edies,693,2189.88
+18,2018,October,east,milk,chocolate,658,1895.04
+19,2017,November,east,ice cream,Breyers,878,3274.94
+20,2017,May,south,ice cream,Breyers,848,3281.76
+21,2019,August,south,milk,low fat,547,1247.16
+22,2017,June,west,ice cream,Edies,664,1513.92
+23,2019,April,south,ice cream,Edies,882,2716.56
+24,2019,February,west,fruit,plums,930,2408.7
+25,2017,November,east,cereal,Special K,735,2594.55
+26,2019,July,north,ice cream,Edies,557,1542.89
+27,2019,July,west,ice cream,Breyers,790,2456.9
+28,2019,August,south,ice cream,Breyers,730,2664.5
+29,2018,December,south,fruit,plums,815,2901.4
+30,2017,August,west,fruit,plums,727,2006.52
+31,2018,October,north,cereal,Cheerios,644,1713.04
+32,2018,January,south,cereal,Raisin Bran,939,2319.33
+33,2017,June,north,cereal,Raisin Bran,739,1544.51
+34,2018,July,north,cereal,Raisin Bran,866,2866.46
+35,2018,January,south,fruit,grapes,513,1395.36
+36,2019,July,west,ice cream,Edies,534,1244.22
+37,2019,September,east,cereal,Cheerios,587,1590.77
+38,2019,October,west,fruit,apples,770,1817.2
+39,2018,March,north,milk,low fat,536,1972.48
+40,2017,September,east,fruit,grapes,787,1967.5
+41,2017,January,west,cereal,Special K,687,2397.63
+42,2017,August,west,milk,low fat,687,1449.57
+43,2019,March,west,cereal,Special K,943,1886
+44,2018,May,south,milk,low fat,731,2485.4
+45,2019,October,east,fruit,apples,993,3227.25
+46,2019,March,west,fruit,plums,686,1996.26
+47,2017,March,south,fruit,apples,675,2457
+48,2017,May,east,milk,chocolate,598,1477.06
+49,2018,February,south,cereal,Raisin Bran,604,1963
+50,2018,February,south,ice cream,Breyers,693,1517.67
+51,2018,February,north,milk,skim,766,1646.9
+52,2019,April,west,cereal,Special K,509,1812.04
+53,2017,April,south,fruit,cherries,901,2234.48
+54,2018,June,east,cereal,Special K,625,1368.75
+55,2019,May,east,milk,whole,914,3518.9
+56,2018,March,east,cereal,Cheerios,768,2027.52
+57,2017,April,west,fruit,apples,681,1695.69
+58,2019,August,west,ice cream,Ben and Jerry's,630,2186.1
+59,2019,January,north,fruit,plums,704,2471.04
+60,2018,March,north,fruit,cherries,806,1781.26
+61,2018,April,west,fruit,plums,673,2591.05
+62,2019,May,west,milk,low fat,920,3293.6
+63,2019,October,west,ice cream,Edies,651,2180.85
+64,2017,June,west,cereal,Raisin Bran,775,1860
+65,2019,May,south,cereal,Special K,583,1953.05
+66,2018,December,east,cereal,Cheerios,542,2059.6
+67,2017,May,east,cereal,Raisin Bran,952,3303.44
+68,2017,January,east,milk,chocolate,618,2329.86
+69,2017,August,west,milk,chocolate,573,1839.33
+70,2017,August,east,cereal,Raisin Bran,738,2405.88
+71,2019,August,east,ice cream,Edies,506,1553.42
+72,2019,January,east,cereal,Raisin Bran,554,1639.84
+73,2018,February,east,milk,whole,843,1820.88
+74,2018,October,east,milk,chocolate,628,1620.24
+75,2018,April,east,cereal,Special K,897,1838.85
+76,2017,November,east,cereal,Cheerios,937,2436.2
+77,2019,November,north,ice cream,Edies,653,1972.06
+78,2017,February,south,milk,whole,640,1574.4
+79,2017,February,north,ice cream,Edies,555,1481.85
+80,2019,March,west,ice cream,Breyers,958,3170.98
+81,2017,March,north,ice cream,Breyers,935,3702.6
+82,2017,March,north,milk,low fat,727,1773.88
+83,2017,December,east,cereal,Special K,820,1869.6
+84,2017,February,east,cereal,Raisin Bran,977,2354.57
+85,2019,July,south,ice cream,Breyers,759,2003.76
+86,2018,January,west,milk,low fat,601,1514.52
+87,2017,March,west,ice cream,Edies,759,2474.34
+88,2017,June,west,fruit,grapes,934,2783.32
+89,2018,July,south,ice cream,Breyers,766,1654.56
+90,2017,June,north,ice cream,Breyers,962,3674.84
+91,2019,May,south,fruit,grapes,818,1963.2
+92,2017,February,north,fruit,grapes,729,2383.83
+93,2017,June,south,cereal,Special K,768,2188.8
+94,2019,August,west,milk,low fat,879,3120.45
+95,2019,May,east,ice cream,Breyers,503,1448.64
+96,2019,February,west,ice cream,Edies,506,1401.62
+97,2017,November,west,fruit,grapes,956,2934.92
+98,2017,April,south,milk,chocolate,671,2663.87
+99,2017,November,south,ice cream,Breyers,923,2815.15
+100,2019,July,west,cereal,Raisin Bran,800,1976
+101,2018,February,west,fruit,apples,929,3056.41
+102,2019,April,east,fruit,cherries,840,2167.2
+103,2017,March,east,fruit,grapes,805,2302.3
+104,2018,February,north,cereal,Raisin Bran,723,1576.14
+105,2018,March,west,fruit,plums,596,1519.8
+106,2018,October,north,fruit,apples,729,1880.82
+107,2019,May,south,cereal,Cheerios,823,2658.29
+108,2019,July,east,ice cream,Edies,842,2526
+109,2019,March,south,fruit,cherries,874,3469.78
+110,2019,October,east,cereal,Raisin Bran,743,2897.7
+111,2019,October,north,ice cream,Breyers,786,2876.76
+112,2017,October,south,milk,chocolate,506,1781.12
+113,2018,October,east,fruit,apples,591,1388.85
+114,2019,July,west,fruit,plums,702,1649.7
+115,2019,January,east,milk,low fat,938,2954.7
+116,2019,June,east,cereal,Raisin Bran,651,2564.94
+117,2017,January,south,cereal,Raisin Bran,983,2064.3
+118,2017,November,south,fruit,grapes,866,3160.9
+119,2018,February,south,cereal,Raisin Bran,627,2276.01
+120,2019,August,east,fruit,plums,645,1941.45
+121,2018,December,north,cereal,Cheerios,671,1670.79
+122,2018,November,south,milk,skim,847,2337.72
+123,2017,August,west,milk,low fat,905,1846.2
+124,2018,April,west,fruit,grapes,736,2708.48
+125,2019,September,south,fruit,grapes,580,2314.2
+126,2019,April,south,ice cream,Edies,678,1966.2
+127,2019,January,north,milk,low fat,891,2200.77
+128,2018,January,south,cereal,Special K,572,1538.68
+129,2018,January,west,milk,low fat,610,2403.4
+130,2017,November,north,fruit,apples,588,2299.08
+131,2018,March,west,fruit,plums,715,2588.3
+132,2019,August,south,cereal,Special K,511,1047.55
+133,2019,August,west,milk,whole,948,2673.36
+134,2017,July,east,fruit,cherries,972,2507.76
+135,2019,May,west,cereal,Raisin Bran,714,2134.86
+136,2019,February,west,ice cream,Ben and Jerry's,689,2611.31
+137,2017,August,east,milk,whole,607,1875.63
+138,2017,September,west,fruit,apples,770,2972.2
+139,2018,February,south,fruit,cherries,928,3452.16
+140,2018,March,south,fruit,cherries,925,2423.5
+141,2018,July,south,fruit,plums,957,2325.51
+142,2019,March,north,milk,low fat,688,1699.36
+143,2019,September,north,cereal,Cheerios,560,1691.2
+144,2017,August,east,milk,whole,760,1900
+145,2017,December,south,ice cream,Edies,570,2006.4
+146,2018,December,north,ice cream,Ben and Jerry's,633,2519.34
+147,2018,July,south,milk,low fat,527,1754.91
+148,2019,January,south,milk,whole,817,2736.95
+149,2019,November,south,fruit,grapes,718,2491.46
+150,2017,April,south,ice cream,Breyers,570,1772.7
+151,2019,August,west,cereal,Raisin Bran,672,1881.6
+152,2018,March,south,fruit,plums,701,2530.61
+153,2019,June,north,ice cream,Breyers,783,2176.74
+154,2017,December,south,ice cream,Edies,845,3143.4
+155,2017,March,south,ice cream,Breyers,646,1317.84
+156,2017,November,east,fruit,grapes,576,1912.32
+157,2018,July,north,ice cream,Breyers,583,1842.28
+158,2017,October,west,fruit,plums,692,1806.12
+159,2019,May,east,fruit,grapes,666,1398.6
+160,2018,October,east,cereal,Cheerios,642,2054.4
+161,2018,April,south,cereal,Raisin Bran,695,2168.4
+162,2018,February,south,ice cream,Edies,511,1732.29
+163,2017,February,east,milk,low fat,918,2469.42
+164,2017,October,west,milk,skim,716,2384.28
+165,2017,March,west,fruit,apples,783,2646.54
+166,2019,November,east,ice cream,Breyers,582,1938.06
+167,2019,January,north,milk,skim,649,2375.34
+168,2017,July,south,cereal,Raisin Bran,966,3574.2
+169,2018,October,west,ice cream,Ben and Jerry's,771,2336.13
+170,2019,January,south,cereal,Cheerios,856,2174.24
+171,2017,January,west,fruit,apples,823,2073.96
+172,2017,June,south,ice cream,Ben and Jerry's,877,3279.98
+173,2019,January,west,ice cream,Edies,666,2124.54
+174,2017,September,north,fruit,plums,560,2066.4
+175,2017,December,south,milk,chocolate,673,2301.66
+176,2019,January,west,ice cream,Edies,944,2926.4
+177,2019,November,east,fruit,apples,822,3131.82
+178,2018,November,south,ice cream,Breyers,872,3226.4
+179,2019,September,south,ice cream,Edies,711,2275.2
+180,2017,April,north,milk,whole,963,3110.49
+181,2017,September,west,fruit,apples,892,3175.52
+182,2019,September,north,milk,low fat,865,2707.45
+183,2018,June,west,cereal,Raisin Bran,959,2378.32
+184,2018,January,west,cereal,Raisin Bran,980,3145.8
+185,2019,July,west,cereal,Special K,876,3162.36
+186,2019,April,west,milk,skim,676,1406.08
+187,2018,February,east,milk,low fat,658,1750.28
+188,2017,October,north,cereal,Raisin Bran,647,2115.69
+189,2017,October,south,fruit,plums,717,1534.38
+190,2018,July,west,ice cream,Ben and Jerry's,623,1619.8
+191,2017,February,north,fruit,grapes,903,2447.13
+192,2019,August,west,fruit,plums,885,2902.8
+193,2019,February,west,fruit,grapes,574,1739.22
+194,2017,November,south,ice cream,Breyers,509,1430.29
+195,2017,March,south,fruit,grapes,802,2646.6
+196,2019,December,north,milk,low fat,836,2666.84
+197,2018,August,north,cereal,Raisin Bran,737,2122.56
+198,2017,March,east,ice cream,Edies,864,3447.36
+199,2018,December,south,ice cream,Edies,896,3386.88
+200,2017,December,north,cereal,Special K,643,2507.7
+201,2017,April,west,milk,low fat,998,2115.76
+202,2019,June,south,fruit,plums,869,3015.43
+203,2018,October,south,fruit,apples,814,2946.68
+204,2019,February,east,fruit,apples,990,3366
+205,2019,August,west,ice cream,Breyers,647,1462.22
+206,2017,March,east,fruit,apples,610,2202.1
+207,2017,January,east,cereal,Raisin Bran,586,1904.5
+208,2019,September,south,fruit,apples,756,2275.56
+209,2019,March,west,fruit,grapes,817,3145.45
+210,2019,March,south,cereal,Raisin Bran,915,3220.8
+211,2018,December,east,cereal,Raisin Bran,912,2580.96
+212,2019,March,north,milk,low fat,655,2587.25
+213,2017,December,west,cereal,Raisin Bran,985,3506.6
+214,2018,February,south,ice cream,Ben and Jerry's,896,2903.04
+215,2019,October,south,cereal,Special K,644,1667.96
+216,2018,December,east,fruit,plums,827,2390.03
+217,2018,March,west,milk,whole,678,1972.98
+218,2018,September,north,cereal,Cheerios,942,3758.58
+219,2017,January,east,milk,chocolate,918,3056.94
+220,2019,December,west,cereal,Raisin Bran,913,2547.27
+221,2019,September,north,ice cream,Edies,756,2094.12
+222,2018,March,south,ice cream,Breyers,927,1909.62
+223,2018,January,east,fruit,cherries,548,2109.8
+224,2019,November,west,ice cream,Breyers,793,1586
+225,2018,April,west,cereal,Raisin Bran,553,1625.82
+226,2019,May,west,cereal,Raisin Bran,629,2056.83
+227,2019,August,north,ice cream,Breyers,674,1853.5
+228,2018,April,north,milk,skim,579,1540.14
+229,2018,November,east,milk,low fat,619,1355.61
+230,2017,August,south,ice cream,Edies,529,1899.11
+231,2017,February,south,milk,skim,674,1954.6
+232,2019,June,east,fruit,cherries,815,1744.1
+233,2018,August,west,fruit,grapes,611,1270.88
+234,2018,February,west,ice cream,Edies,904,3127.84
+235,2018,April,north,milk,low fat,851,3267.84
+236,2017,July,south,ice cream,Edies,919,1883.95
+237,2017,April,south,cereal,Cheerios,747,2300.76
+238,2017,June,east,ice cream,Breyers,728,1798.16
+239,2019,April,east,milk,whole,752,2210.88
+240,2019,July,north,cereal,Raisin Bran,558,1478.7
+241,2019,June,south,cereal,Raisin Bran,520,1367.6
+242,2017,July,south,fruit,apples,630,2047.5
+243,2017,September,east,milk,low fat,765,2034.9
+244,2018,October,south,cereal,Cheerios,919,2931.61
+245,2019,December,north,fruit,cherries,803,3027.31
+246,2017,February,south,milk,skim,668,2324.64
+247,2018,April,west,milk,whole,559,1492.53
+248,2019,April,north,cereal,Raisin Bran,974,3652.5
+249,2017,December,west,cereal,Special K,665,1416.45
+250,2017,February,west,ice cream,Ben and Jerry's,521,1833.92
+251,2018,September,north,milk,whole,862,2120.52
+252,2018,October,south,milk,skim,697,1986.45
+253,2017,June,west,cereal,Special K,614,2443.72
+254,2018,November,east,fruit,cherries,792,3001.68
+255,2018,December,east,ice cream,Breyers,713,2630.97
+256,2019,July,west,ice cream,Edies,625,2050
+257,2018,April,west,fruit,plums,888,1838.16
+258,2018,January,north,fruit,grapes,552,1672.56
+259,2018,January,west,fruit,plums,802,2365.9
+260,2017,September,south,fruit,plums,686,1372
+261,2017,June,north,fruit,cherries,647,1792.19
+262,2018,January,west,milk,whole,894,1904.22
+263,2017,March,west,milk,chocolate,637,1420.51
+264,2019,May,south,fruit,grapes,943,2348.07
+265,2019,December,east,ice cream,Breyers,704,2323.2
+266,2017,August,east,milk,low fat,943,2961.02
+267,2017,December,north,cereal,Raisin Bran,900,2043
+268,2018,February,south,ice cream,Ben and Jerry's,693,2716.56
+269,2018,November,south,cereal,Cheerios,926,2555.76
+270,2017,March,west,ice cream,Edies,993,2651.31
+271,2018,August,south,ice cream,Ben and Jerry's,962,3116.88
+272,2018,June,north,ice cream,Edies,843,2731.32
+273,2017,March,north,ice cream,Breyers,819,1670.76
+274,2019,November,west,milk,skim,616,1416.8
+275,2017,October,north,cereal,Raisin Bran,904,3064.56
+276,2018,June,north,milk,low fat,815,2665.05
+277,2017,April,west,ice cream,Breyers,663,1922.7
+278,2019,August,west,cereal,Raisin Bran,727,2050.14
+279,2018,March,west,ice cream,Breyers,592,1444.48
+280,2018,September,south,cereal,Cheerios,703,1989.49
+281,2019,January,south,fruit,plums,546,1457.82
+282,2017,December,west,cereal,Special K,992,3888.64
+283,2019,August,south,fruit,plums,625,2018.75
+284,2018,August,north,cereal,Raisin Bran,911,2796.77
+285,2019,October,east,cereal,Special K,744,2715.6
+286,2018,July,east,fruit,plums,680,2040
+287,2018,July,east,ice cream,Breyers,618,1724.22
+288,2019,October,south,cereal,Special K,979,1997.16
+289,2018,July,east,ice cream,Ben and Jerry's,635,1708.15
+290,2019,June,south,milk,low fat,531,1062
+291,2018,October,east,cereal,Cheerios,861,1833.93
+292,2017,October,south,fruit,plums,872,2214.88
+293,2019,February,north,milk,chocolate,676,1419.6
+294,2018,June,west,ice cream,Breyers,725,2211.25
+295,2019,November,north,cereal,Raisin Bran,890,2225
+296,2018,February,south,fruit,apples,792,2185.92
+297,2018,April,west,fruit,plums,884,3253.12
+298,2018,March,east,fruit,plums,640,2124.8
+299,2019,November,north,ice cream,Breyers,903,1914.36
+300,2017,December,south,milk,low fat,668,2177.68
+301,2019,September,west,fruit,grapes,918,1982.88
+302,2018,March,east,milk,whole,896,3557.12
+303,2017,January,south,fruit,plums,703,2312.87
+304,2018,June,south,milk,skim,742,1617.56
+305,2017,July,south,fruit,apples,788,1843.92
+306,2019,February,north,cereal,Raisin Bran,570,1145.7
+307,2017,June,east,cereal,Raisin Bran,848,2713.6
+308,2017,January,west,fruit,grapes,604,1528.12
+309,2018,March,north,fruit,cherries,767,2876.25
+310,2017,September,north,ice cream,Ben and Jerry's,675,1856.25
+311,2017,May,north,milk,chocolate,781,1796.3
+312,2018,September,west,cereal,Raisin Bran,535,1551.5
+313,2017,December,east,milk,skim,620,2399.4
+314,2019,August,west,cereal,Raisin Bran,749,1505.49
+315,2019,July,west,milk,chocolate,972,3129.84
+316,2018,February,south,ice cream,Ben and Jerry's,932,1985.16
+317,2019,March,north,milk,chocolate,761,2716.77
+318,2017,April,west,cereal,Cheerios,922,2387.98
+319,2019,April,east,fruit,plums,636,2397.72
+320,2017,September,west,cereal,Raisin Bran,674,1846.76
+321,2019,July,north,milk,skim,516,1166.16
+322,2018,November,east,cereal,Raisin Bran,771,1827.27
+323,2017,April,south,cereal,Raisin Bran,806,2643.68
+324,2018,March,east,fruit,plums,716,2405.76
+325,2019,April,north,fruit,grapes,810,2786.4
+326,2018,February,north,cereal,Raisin Bran,512,1536
+327,2019,June,south,ice cream,Breyers,726,1749.66
+328,2018,July,south,cereal,Raisin Bran,730,1898
+329,2017,July,south,ice cream,Edies,701,2390.41
+330,2017,August,south,milk,skim,822,2260.5
+331,2018,June,west,milk,low fat,910,3567.2
+332,2018,April,south,milk,skim,1000,2380
+333,2018,November,east,fruit,cherries,778,2085.04
+334,2017,May,east,ice cream,Breyers,775,1953
+335,2017,December,east,milk,whole,832,1847.04
+336,2018,May,south,fruit,grapes,719,1833.45
+337,2019,August,south,ice cream,Ben and Jerry's,650,1716
+338,2017,November,west,fruit,apples,775,1852.25
+339,2019,February,east,ice cream,Breyers,686,1996.26
+340,2017,March,north,milk,low fat,734,1695.54
+341,2018,December,east,fruit,cherries,845,1867.45
+342,2018,January,west,ice cream,Breyers,732,1639.68
+343,2017,March,east,fruit,apples,619,1770.34
+344,2017,August,east,milk,low fat,738,1763.82
+345,2017,January,south,ice cream,Ben and Jerry's,598,1985.36
+346,2017,March,west,milk,low fat,535,1867.15
+347,2017,November,north,ice cream,Ben and Jerry's,827,2166.74
+348,2017,October,west,cereal,Raisin Bran,801,2531.16
+349,2018,February,west,milk,whole,868,2656.08
+350,2018,September,west,ice cream,Breyers,511,1696.52
+351,2018,October,north,ice cream,Ben and Jerry's,524,1875.92
+352,2017,March,east,milk,whole,922,2931.96
+353,2019,June,south,fruit,grapes,902,3463.68
+354,2017,June,west,milk,chocolate,832,2129.92
+355,2018,July,south,milk,whole,668,2478.28
+356,2019,June,north,fruit,apples,510,1407.6
+357,2017,July,south,fruit,grapes,669,2408.4
+358,2019,December,north,ice cream,Edies,671,2455.86
+359,2017,March,west,ice cream,Breyers,644,1835.4
+360,2019,January,south,cereal,Raisin Bran,846,2961
+361,2018,May,south,milk,skim,846,3079.44
+362,2018,October,west,milk,low fat,954,3253.14
+363,2017,February,east,milk,low fat,733,2125.7
+364,2017,August,north,ice cream,Ben and Jerry's,800,1648
+365,2019,March,west,milk,low fat,534,1708.8
+366,2018,September,south,milk,skim,600,1620
+367,2017,September,east,cereal,Cheerios,708,2619.6
+368,2017,January,west,milk,chocolate,532,1590.68
+369,2018,March,south,milk,whole,656,1856.48
+370,2019,August,east,cereal,Cheerios,771,2205.06
+371,2019,January,west,fruit,grapes,558,1964.16
+372,2018,December,east,ice cream,Breyers,962,3694.08
+373,2017,April,north,ice cream,Edies,844,3224.08
+374,2017,March,south,fruit,cherries,503,1287.68
+375,2017,November,east,fruit,plums,840,2343.6
+376,2018,July,north,fruit,apples,705,1628.55
+377,2017,May,west,ice cream,Ben and Jerry's,559,1855.88
+378,2018,July,south,milk,whole,994,2803.08
+379,2017,May,west,milk,chocolate,853,2209.27
+380,2019,April,north,fruit,cherries,858,2737.02
+381,2019,April,north,ice cream,Ben and Jerry's,555,1182.15
+382,2019,April,south,ice cream,Breyers,543,1476.96
+383,2017,January,west,cereal,Raisin Bran,646,2344.98
+384,2018,December,south,cereal,Raisin Bran,794,1992.94
+385,2019,July,east,ice cream,Ben and Jerry's,573,1237.68
+386,2019,August,north,milk,low fat,534,1431.12
+387,2017,May,south,cereal,Raisin Bran,793,2497.95
+388,2017,May,south,ice cream,Edies,709,1985.2
+389,2019,March,south,ice cream,Edies,907,2058.89
+390,2017,February,north,fruit,plums,955,2989.15
+391,2018,September,north,fruit,plums,685,2116.65
+392,2018,April,north,ice cream,Edies,903,2600.64
+393,2019,May,west,ice cream,Breyers,903,2438.1
+394,2017,December,east,milk,skim,701,2495.56
+395,2017,December,west,fruit,plums,738,2214
+396,2019,June,north,milk,low fat,950,2023.5
+397,2017,January,north,fruit,cherries,773,2434.95
+398,2018,May,east,cereal,Special K,760,1801.2
+399,2018,March,west,fruit,cherries,502,1490.94
+400,2019,April,north,fruit,cherries,925,2479
+401,2017,September,south,ice cream,Ben and Jerry's,893,2812.95
+402,2018,January,east,cereal,Special K,786,2837.46
+403,2018,September,east,fruit,apples,837,2879.28
+404,2018,August,south,milk,chocolate,823,2156.26
+405,2019,August,north,cereal,Raisin Bran,823,2469
+406,2019,October,east,cereal,Cheerios,577,1846.4
+407,2019,October,north,fruit,grapes,758,2516.56
+408,2019,March,east,ice cream,Breyers,681,2717.19
+409,2019,October,east,ice cream,Breyers,837,2410.56
+410,2018,June,west,cereal,Special K,964,2217.2
+411,2019,December,north,milk,whole,998,3473.04
+412,2017,September,south,fruit,grapes,729,2624.4
+413,2017,February,west,fruit,plums,658,1730.54
+414,2017,September,south,milk,skim,738,1505.52
+415,2017,June,east,ice cream,Breyers,950,3619.5
+416,2019,September,north,ice cream,Ben and Jerry's,776,3041.92
+417,2019,January,west,milk,chocolate,768,1774.08
+418,2019,November,south,milk,chocolate,809,2386.55
+419,2019,January,west,ice cream,Edies,764,2849.72
+420,2018,September,west,milk,low fat,789,2272.32
+421,2017,March,north,milk,low fat,781,1835.35
+422,2019,October,north,milk,chocolate,885,3442.65
+423,2017,September,west,fruit,plums,816,2358.24
+424,2017,December,west,cereal,Raisin Bran,789,2524.8
+425,2019,June,north,cereal,Special K,572,2019.16
+426,2017,October,west,ice cream,Edies,627,2062.83
+427,2018,July,east,fruit,cherries,858,2179.32
+428,2018,June,west,fruit,apples,892,3041.72
+429,2018,October,north,cereal,Special K,858,3380.52
+430,2019,December,east,cereal,Special K,967,2137.07
+431,2018,February,north,milk,whole,836,2666.84
+432,2017,December,east,cereal,Raisin Bran,921,3536.64
+433,2019,September,east,fruit,plums,898,3035.24
+434,2018,July,north,ice cream,Breyers,516,1640.88
+435,2019,September,east,milk,skim,722,2064.92
+436,2017,June,north,cereal,Raisin Bran,991,2437.86
+437,2018,October,north,ice cream,Breyers,798,1787.52
+438,2019,February,south,fruit,plums,803,2569.6
+439,2017,March,west,cereal,Special K,520,1258.4
+440,2019,January,west,milk,chocolate,529,1433.59
+441,2017,July,east,milk,low fat,888,2353.2
+442,2019,September,south,fruit,grapes,552,1644.96
+443,2019,November,north,cereal,Cheerios,740,1531.8
+444,2017,October,west,ice cream,Breyers,962,1943.24
+445,2017,May,north,ice cream,Breyers,614,2406.88
+446,2017,January,south,ice cream,Edies,775,2123.5
+447,2018,June,north,cereal,Raisin Bran,589,1943.7
+448,2018,July,north,ice cream,Edies,951,2329.95
+449,2019,May,east,milk,skim,796,2037.76
+450,2018,September,east,cereal,Raisin Bran,822,1824.84
+451,2019,October,north,ice cream,Ben and Jerry's,503,1996.91
+452,2019,September,north,milk,skim,557,1899.37
+453,2017,May,east,milk,skim,782,2267.8
+454,2017,June,north,fruit,apples,930,3692.1
+455,2018,July,west,ice cream,Ben and Jerry's,720,1800
+456,2018,August,south,milk,low fat,701,2593.7
+457,2018,November,west,cereal,Special K,887,3281.9
+458,2019,May,north,cereal,Special K,920,2714
+459,2018,July,west,fruit,cherries,524,1388.6
+460,2019,December,west,milk,chocolate,878,2634
+461,2019,July,west,ice cream,Breyers,858,3071.64
+462,2018,January,south,fruit,plums,868,2421.72
+463,2017,July,south,fruit,cherries,951,3689.88
+464,2018,August,south,ice cream,Breyers,740,1998
+465,2017,January,north,ice cream,Ben and Jerry's,590,2147.6
+466,2019,June,south,ice cream,Breyers,539,1665.51
+467,2017,September,south,fruit,cherries,922,1880.88
+468,2017,May,south,ice cream,Edies,842,2568.1
+469,2018,July,north,fruit,cherries,724,1643.48
+470,2017,August,east,ice cream,Breyers,670,2264.6
+471,2019,October,east,milk,low fat,791,2428.37
+472,2017,January,east,milk,chocolate,673,2072.84
+473,2017,October,north,cereal,Raisin Bran,589,1884.8
+474,2018,October,south,ice cream,Ben and Jerry's,950,3277.5
+475,2018,October,north,milk,low fat,921,2984.04
+476,2018,April,south,ice cream,Breyers,912,3556.8
+477,2019,February,south,ice cream,Ben and Jerry's,640,1984
+478,2018,February,south,cereal,Cheerios,891,3109.59
+479,2018,February,west,milk,skim,986,3796.1
+480,2018,August,east,cereal,Raisin Bran,788,2663.44
+481,2018,March,south,ice cream,Breyers,700,2030
+482,2017,September,north,milk,skim,773,2744.15
+483,2018,April,east,cereal,Cheerios,611,1276.99
+484,2019,June,east,fruit,cherries,573,1833.6
+485,2019,June,south,fruit,plums,821,1756.94
+486,2017,August,east,milk,chocolate,699,2656.2
+487,2017,October,south,ice cream,Ben and Jerry's,784,1936.48
+488,2017,April,north,fruit,cherries,737,2859.56
+489,2019,December,north,cereal,Special K,621,2285.28
+490,2018,May,east,milk,low fat,991,3141.47
+491,2018,April,east,fruit,cherries,567,1508.22
+492,2017,February,north,cereal,Raisin Bran,897,1874.73
+493,2019,July,east,fruit,plums,676,2676.96
+494,2017,August,west,fruit,cherries,892,2019
+495,2017,February,north,cereal,Cheerios,650,2515.5
+496,2019,March,east,milk,skim,625,1950
+497,2017,November,west,fruit,plums,862,2982.52
+498,2019,October,east,cereal,Cheerios,935,3160.3
+499,2017,September,east,milk,low fat,850,1717
+500,2018,December,west,milk,whole,610,1708
+501,2018,May,south,milk,low fat,970,2648.1
+502,2018,April,east,milk,skim,918,3470.04
+503,2017,November,south,cereal,Cheerios,853,2362.81
+504,2019,December,east,milk,skim,744,2946.24
+505,2018,March,east,milk,chocolate,964,3161.92
+506,2017,August,west,cereal,Raisin Bran,629,2113.44
+507,2017,May,east,ice cream,Edies,712,2363.84
+508,2017,December,east,fruit,plums,800,3184
+509,2018,December,west,cereal,Special K,734,2216.68
+510,2017,July,north,ice cream,Breyers,762,1790.7
+511,2017,March,north,milk,skim,512,2027.52
+512,2018,February,east,milk,whole,590,1256.7
+513,2017,April,west,milk,low fat,694,2130.58
+514,2019,November,west,fruit,apples,933,3498.75
+515,2017,November,east,ice cream,Ben and Jerry's,916,3370.88
+516,2019,December,south,cereal,Raisin Bran,539,1891.89
+517,2017,November,south,fruit,grapes,833,2832.2
+518,2017,September,south,milk,whole,964,2400.36
+519,2017,October,north,fruit,apples,707,2792.65
+520,2019,July,north,fruit,plums,517,1566.51
+521,2018,May,west,fruit,apples,755,1532.65
+522,2019,April,east,fruit,cherries,964,3316.16
+523,2018,August,west,fruit,plums,632,1813.84
+524,2019,July,south,fruit,cherries,516,1738.92
+525,2017,November,north,ice cream,Ben and Jerry's,819,3104.01
+526,2018,December,east,ice cream,Ben and Jerry's,608,1483.52
+527,2019,October,south,ice cream,Edies,868,2282.84
+528,2018,July,north,fruit,cherries,593,1666.33
+529,2019,November,west,fruit,grapes,984,2351.76
+530,2017,January,east,cereal,Raisin Bran,624,1709.76
+531,2017,June,north,ice cream,Ben and Jerry's,528,1832.16
+532,2019,December,west,cereal,Raisin Bran,724,1976.52
+533,2017,July,south,milk,whole,600,1950
+534,2018,February,north,milk,whole,660,1821.6
+535,2019,January,north,milk,skim,514,1870.96
+536,2018,December,west,ice cream,Edies,516,1176.48
+537,2017,June,south,milk,chocolate,887,2838.4
+538,2017,February,west,cereal,Cheerios,719,2782.53
+539,2017,February,west,cereal,Special K,941,2465.42
+540,2017,May,north,fruit,grapes,778,2474.04
+541,2017,June,south,ice cream,Edies,622,1436.82
+542,2017,September,east,milk,skim,660,1445.4
+543,2019,February,south,cereal,Raisin Bran,711,1763.28
+544,2019,May,north,milk,skim,750,1522.5
+545,2018,August,south,ice cream,Breyers,605,1524.6
+546,2019,February,east,cereal,Raisin Bran,619,1293.71
+547,2018,July,east,fruit,cherries,702,1509.3
+548,2018,January,west,fruit,grapes,508,1198.88
+549,2019,December,west,fruit,grapes,750,1860
+550,2017,March,north,milk,chocolate,874,2010.2
+551,2019,November,north,cereal,Raisin Bran,871,3440.45
+552,2018,February,south,fruit,plums,981,2786.04
+553,2018,February,north,milk,low fat,719,1495.52
+554,2019,June,south,cereal,Raisin Bran,885,1858.5
+555,2017,May,west,ice cream,Breyers,535,1594.3
+556,2019,May,east,fruit,cherries,949,2524.34
+557,2018,April,south,cereal,Raisin Bran,645,1876.95
+558,2019,December,north,ice cream,Edies,669,1485.18
+559,2018,October,north,cereal,Raisin Bran,834,2860.62
+560,2017,December,north,cereal,Cheerios,989,2472.5
+561,2018,January,east,ice cream,Edies,604,2373.72
+562,2018,September,south,milk,chocolate,751,2185.41
+563,2019,March,south,fruit,grapes,740,2264.4
+564,2018,October,west,fruit,grapes,694,1880.74
+565,2017,February,south,cereal,Raisin Bran,640,1478.4
+566,2017,February,south,ice cream,Edies,810,2762.1
+567,2019,November,east,milk,whole,651,2057.16
+568,2019,September,east,milk,whole,979,3064.27
+569,2018,August,east,fruit,plums,810,2843.1
+570,2018,December,south,fruit,cherries,646,1395.36
+571,2017,July,west,milk,skim,734,2414.86
+572,2019,October,west,fruit,apples,739,2638.23
+573,2018,March,west,cereal,Raisin Bran,808,3215.84
+574,2019,July,south,ice cream,Breyers,859,2748.8
+575,2019,February,north,ice cream,Breyers,831,2891.88
+576,2018,July,south,ice cream,Edies,829,2346.07
+577,2017,September,east,milk,whole,835,2588.5
+578,2019,July,south,milk,low fat,548,2109.8
+579,2017,October,west,cereal,Cheerios,711,1521.54
+580,2017,January,west,milk,chocolate,889,2044.7
+581,2018,May,west,ice cream,Breyers,509,1073.99
+582,2017,April,west,milk,low fat,565,1994.45
+583,2018,June,west,cereal,Cheerios,526,1893.6
+584,2018,May,west,milk,low fat,714,1799.28
+585,2019,March,east,cereal,Special K,813,3170.7
+586,2019,April,north,ice cream,Edies,894,2503.2
+587,2017,September,east,fruit,plums,576,1969.92
+588,2017,January,south,cereal,Special K,877,3253.67
+589,2019,November,south,ice cream,Breyers,887,2767.44
+590,2019,November,east,milk,whole,992,3104.96
+591,2018,December,west,milk,low fat,962,3684.46
+592,2017,April,east,ice cream,Ben and Jerry's,994,2137.1
+593,2019,August,west,milk,low fat,504,1189.44
+594,2019,July,south,cereal,Special K,865,3269.7
+595,2018,March,south,cereal,Cheerios,908,2796.64
+596,2019,September,east,fruit,apples,500,1645
+597,2017,July,west,fruit,grapes,752,2624.48
+598,2019,June,north,fruit,plums,715,2059.2
+599,2017,October,west,fruit,cherries,940,3590.8
+600,2017,August,north,cereal,Raisin Bran,631,1621.67
+601,2019,February,west,fruit,plums,800,2432
+602,2018,June,south,fruit,apples,984,2302.56
+603,2017,April,east,ice cream,Edies,645,2309.1
+604,2018,August,east,cereal,Raisin Bran,534,1164.12
+605,2018,November,west,milk,skim,710,2314.6
+606,2018,September,south,ice cream,Ben and Jerry's,730,2555
+607,2017,September,north,milk,whole,784,1756.16
+608,2019,July,east,milk,chocolate,894,2235
+609,2019,November,east,fruit,apples,568,1618.8
+610,2017,August,west,milk,chocolate,648,1840.32
+611,2017,April,north,cereal,Special K,912,3629.76
+612,2018,January,west,ice cream,Ben and Jerry's,626,1252
+613,2017,September,east,fruit,grapes,544,1109.76
+614,2019,November,west,fruit,grapes,680,1387.2
+615,2017,February,east,fruit,cherries,674,1543.46
+616,2019,January,north,fruit,cherries,790,2670.2
+617,2019,November,south,fruit,cherries,946,2667.72
+618,2017,August,west,ice cream,Breyers,925,2007.25
+619,2017,January,north,milk,whole,839,1946.48
+620,2019,February,south,ice cream,Breyers,905,3230.85
+621,2018,September,east,ice cream,Ben and Jerry's,938,3067.26
+622,2017,March,south,cereal,Raisin Bran,642,1836.12
+623,2018,June,south,ice cream,Breyers,925,2812
+624,2017,October,east,milk,skim,633,2177.52
+625,2019,December,south,ice cream,Ben and Jerry's,524,1545.8
+626,2019,September,west,ice cream,Edies,656,1725.28
+627,2018,May,west,fruit,grapes,888,2015.76
+628,2019,March,east,cereal,Cheerios,662,2118.4
+629,2019,February,south,ice cream,Edies,648,2404.08
+630,2018,July,south,milk,chocolate,648,1723.68
+631,2017,June,north,cereal,Raisin Bran,561,1458.6
+632,2017,August,north,milk,whole,916,2418.24
+633,2019,May,north,ice cream,Breyers,925,2987.75
+634,2017,December,west,cereal,Raisin Bran,664,2609.52
+635,2019,December,north,ice cream,Breyers,814,2865.28
+636,2017,May,south,cereal,Raisin Bran,920,3109.6
+637,2017,May,south,ice cream,Breyers,812,2135.56
+638,2018,November,west,ice cream,Breyers,993,3167.67
+639,2018,April,north,fruit,plums,993,2412.99
+640,2019,February,west,milk,low fat,843,2874.63
+641,2017,April,west,cereal,Raisin Bran,946,3632.64
+642,2019,August,south,cereal,Special K,649,2557.06
+643,2018,December,west,fruit,plums,895,3553.15
+644,2019,September,east,fruit,cherries,634,2364.82
+645,2018,January,west,ice cream,Ben and Jerry's,989,2175.8
+646,2019,June,west,cereal,Cheerios,657,2450.61
+647,2019,March,east,cereal,Special K,934,2008.1
+648,2017,September,south,fruit,plums,679,1622.81
+649,2017,June,east,milk,skim,966,2105.88
+650,2017,June,south,fruit,apples,683,2540.76
+651,2018,January,west,ice cream,Ben and Jerry's,693,1718.64
+652,2019,April,north,cereal,Cheerios,670,1547.7
+653,2017,April,east,ice cream,Ben and Jerry's,516,1037.16
+654,2018,May,west,cereal,Cheerios,928,2802.56
+655,2019,September,north,cereal,Raisin Bran,783,1706.94
+656,2018,November,west,milk,whole,686,1420.02
+657,2017,July,south,fruit,grapes,744,1986.48
+658,2018,January,north,cereal,Raisin Bran,725,2827.5
+659,2018,February,east,ice cream,Edies,748,2333.76
+660,2018,September,south,ice cream,Breyers,615,2355.45
+661,2019,February,south,milk,chocolate,736,2141.76
+662,2019,October,north,fruit,apples,650,2437.5
+663,2017,July,north,ice cream,Breyers,552,2086.56
+664,2017,May,south,cereal,Raisin Bran,846,1717.38
+665,2017,October,east,ice cream,Edies,719,2444.6
+666,2017,December,south,ice cream,Breyers,980,2401
+667,2018,November,east,milk,whole,599,1910.81
+668,2017,February,east,cereal,Raisin Bran,580,1571.8
+669,2018,April,south,ice cream,Ben and Jerry's,528,1309.44
+670,2019,February,west,milk,chocolate,717,2631.39
+671,2019,May,west,ice cream,Breyers,536,1908.16
+672,2019,May,north,fruit,plums,603,1507.5
+673,2019,October,west,cereal,Raisin Bran,719,2243.28
+674,2017,April,west,milk,low fat,768,2772.48
+675,2018,July,north,ice cream,Breyers,513,1549.26
+676,2018,October,east,ice cream,Edies,666,1791.54
+677,2018,October,east,milk,whole,611,1582.49
+678,2017,November,west,cereal,Cheerios,728,2096.64
+679,2017,May,west,milk,chocolate,614,2112.16
+680,2019,April,south,milk,skim,836,3302.2
+681,2017,November,west,ice cream,Edies,795,2750.7
+682,2018,April,east,ice cream,Ben and Jerry's,558,2075.76
+683,2018,January,north,milk,chocolate,883,3443.7
+684,2018,July,east,fruit,plums,568,1647.2
+685,2019,June,north,cereal,Cheerios,842,1978.7
+686,2019,February,east,cereal,Special K,962,2049.06
+687,2019,November,west,milk,chocolate,515,1066.05
+688,2018,November,north,cereal,Special K,976,3533.12
+689,2019,March,south,fruit,apples,543,1324.92
+690,2017,March,north,milk,low fat,957,3521.76
+691,2019,March,west,cereal,Cheerios,929,2183.15
+692,2019,October,south,fruit,cherries,778,2987.52
+693,2019,July,north,milk,whole,678,1918.74
+694,2018,September,north,fruit,grapes,778,1587.12
+695,2019,February,west,fruit,apples,775,2379.25
+696,2017,September,south,fruit,apples,596,2264.8
+697,2018,August,west,milk,skim,947,3068.28
+698,2017,September,south,milk,low fat,898,1939.68
+699,2017,July,north,fruit,grapes,874,2919.16
+700,2019,February,west,fruit,cherries,771,2505.75
+701,2017,March,south,milk,low fat,725,2428.75
+702,2019,November,north,cereal,Cheerios,665,2134.65
+703,2017,February,west,cereal,Raisin Bran,885,2451.45
+704,2018,November,west,fruit,apples,556,1490.08
+705,2017,December,west,cereal,Raisin Bran,844,1738.64
+706,2017,May,south,ice cream,Ben and Jerry's,833,1790.95
+707,2018,September,east,milk,whole,523,1359.8
+708,2018,July,north,cereal,Cheerios,770,3056.9
+709,2017,March,north,fruit,grapes,656,2374.72
+710,2018,June,east,ice cream,Edies,812,1867.6
+711,2019,September,west,cereal,Raisin Bran,574,1790.88
+712,2019,January,west,milk,low fat,988,2855.32
+713,2017,December,north,ice cream,Ben and Jerry's,566,1482.92
+714,2017,February,south,milk,skim,667,1827.58
+715,2019,January,east,milk,chocolate,688,1960.8
+716,2018,April,east,fruit,cherries,939,3061.14
+717,2018,July,south,cereal,Cheerios,576,1365.12
+718,2017,October,east,milk,whole,937,2033.29
+719,2019,May,east,milk,low fat,788,2379.76
+720,2019,April,west,fruit,apples,952,2513.28
+721,2017,November,south,fruit,apples,945,3609.9
+722,2017,December,west,milk,low fat,514,1999.46
+723,2018,July,east,milk,chocolate,569,1735.45
+724,2018,March,east,ice cream,Breyers,704,1724.8
+725,2018,December,west,cereal,Raisin Bran,680,2230.4
+726,2017,April,west,cereal,Special K,916,3224.32
+727,2019,May,south,ice cream,Edies,831,2717.37
+728,2018,October,west,milk,whole,577,1488.66
+729,2019,January,west,cereal,Raisin Bran,529,1465.33
+730,2019,July,south,fruit,cherries,789,2422.23
+731,2019,February,east,fruit,cherries,997,2622.11
+732,2017,February,east,fruit,grapes,802,2911.26
+733,2017,December,south,milk,chocolate,889,1991.36
+734,2018,July,north,cereal,Raisin Bran,884,2846.48
+735,2019,August,north,milk,low fat,869,2841.63
+736,2018,August,south,fruit,cherries,913,3615.48
+737,2017,September,west,cereal,Raisin Bran,704,1640.32
+738,2017,May,south,cereal,Special K,819,3046.68
+739,2019,July,south,cereal,Special K,814,2328.04
+740,2019,January,west,milk,whole,735,1764
+741,2019,September,south,fruit,grapes,616,2420.88
+742,2019,November,north,ice cream,Breyers,981,2148.39
+743,2017,January,west,fruit,apples,531,1343.43
+744,2018,March,west,ice cream,Edies,976,2283.84
+745,2019,December,east,milk,skim,646,1925.08
+746,2018,December,south,cereal,Cheerios,787,2038.33
+747,2019,August,south,cereal,Cheerios,572,1355.64
+748,2018,January,east,cereal,Special K,632,1308.24
+749,2018,June,north,fruit,plums,883,2922.73
+750,2019,May,west,ice cream,Edies,528,1177.44
+751,2018,October,north,fruit,cherries,773,2148.94
+752,2019,June,west,ice cream,Breyers,980,2979.2
+753,2019,June,south,milk,skim,606,1830.12
+754,2019,March,north,cereal,Raisin Bran,710,1718.2
+755,2019,June,east,milk,skim,594,1877.04
+756,2019,April,east,ice cream,Edies,717,1821.18
+757,2017,January,north,ice cream,Edies,580,2035.8
+758,2017,September,west,cereal,Raisin Bran,750,2587.5
+759,2018,November,north,milk,chocolate,622,2413.36
+760,2018,December,west,ice cream,Ben and Jerry's,800,1976
+761,2017,June,north,cereal,Special K,983,3705.91
+762,2018,April,east,cereal,Raisin Bran,866,1757.98
+763,2017,July,west,cereal,Special K,833,2390.71
+764,2018,May,east,cereal,Cheerios,915,1958.1
+765,2019,September,west,ice cream,Edies,787,2856.81
+766,2017,March,north,ice cream,Breyers,766,2841.86
+767,2019,May,west,fruit,apples,954,2222.82
+768,2018,February,east,ice cream,Ben and Jerry's,823,3234.39
+769,2017,March,east,milk,chocolate,794,2985.44
+770,2019,March,east,cereal,Cheerios,578,1277.38
+771,2019,September,north,cereal,Special K,945,3430.35
+772,2019,November,west,ice cream,Ben and Jerry's,600,1878
+773,2018,July,east,ice cream,Ben and Jerry's,606,2248.26
+774,2019,June,south,cereal,Special K,781,2827.22
+775,2018,September,east,ice cream,Edies,905,2859.8
+776,2018,September,north,milk,low fat,647,1850.42
+777,2017,October,north,fruit,apples,957,3368.64
+778,2018,August,east,cereal,Raisin Bran,684,1922.04
+779,2017,March,south,cereal,Cheerios,685,1465.9
+780,2017,May,east,fruit,grapes,701,1556.22
+781,2019,May,south,milk,whole,745,1758.2
+782,2017,June,west,fruit,grapes,815,2029.35
+783,2018,August,east,cereal,Cheerios,898,2101.32
+784,2017,May,east,ice cream,Edies,621,1428.3
+785,2017,September,south,cereal,Raisin Bran,736,1972.48
+786,2019,April,east,milk,whole,906,3053.22
+787,2017,February,west,fruit,plums,874,2875.46
+788,2017,August,south,cereal,Raisin Bran,913,2958.12
+789,2018,April,south,cereal,Special K,503,1182.05
+790,2018,May,south,cereal,Special K,938,2316.86
+791,2019,October,north,cereal,Raisin Bran,994,2763.32
+792,2018,November,south,milk,chocolate,963,2908.26
+793,2018,April,south,fruit,apples,505,1732.15
+794,2019,November,west,milk,whole,602,1727.74
+795,2017,December,north,ice cream,Ben and Jerry's,891,3189.78
+796,2017,July,south,cereal,Cheerios,980,3087
+797,2019,May,south,milk,skim,798,1995
+798,2018,October,east,milk,whole,578,1179.12
+799,2018,November,west,milk,whole,994,3121.16
+800,2019,November,east,cereal,Cheerios,685,1739.9
+801,2018,January,south,ice cream,Edies,720,1591.2
+802,2019,December,west,cereal,Raisin Bran,779,2079.93
+803,2019,September,south,cereal,Raisin Bran,913,3569.83
+804,2019,June,north,milk,low fat,721,1701.56
+805,2018,August,north,fruit,apples,804,2026.08
+806,2019,August,north,milk,low fat,948,3630.84
+807,2018,May,south,ice cream,Breyers,711,2189.88
+808,2019,January,north,cereal,Special K,731,2288.03
+809,2018,April,north,fruit,plums,568,1874.4
+810,2018,December,south,fruit,grapes,571,1199.1
+811,2017,May,west,milk,skim,660,1650
+812,2017,July,north,cereal,Raisin Bran,882,2231.46
+813,2019,January,east,milk,whole,696,2310.72
+814,2017,March,south,fruit,plums,930,3227.1
+815,2019,January,west,fruit,grapes,590,1728.7
+816,2019,August,west,milk,whole,967,2146.74
+817,2017,October,south,milk,low fat,554,1202.18
+818,2018,June,south,ice cream,Breyers,983,3932
+819,2017,April,west,cereal,Raisin Bran,754,2925.52
+820,2017,September,north,milk,chocolate,545,1455.15
+821,2017,August,north,fruit,apples,552,1479.36
+822,2017,November,south,cereal,Special K,902,2850.32
+823,2019,April,south,cereal,Cheerios,813,2447.13
+824,2017,March,west,milk,low fat,517,1085.7
+825,2018,March,north,milk,skim,535,1423.1
+826,2017,July,south,milk,chocolate,753,1769.55
+827,2017,August,north,cereal,Special K,949,3236.09
+828,2018,March,east,milk,whole,792,2653.2
+829,2019,March,north,fruit,plums,626,2347.5
+830,2018,September,south,fruit,apples,939,3136.26
+831,2019,December,south,ice cream,Edies,771,1927.5
+832,2017,June,west,cereal,Cheerios,684,2708.64
+833,2019,October,north,ice cream,Ben and Jerry's,602,1679.58
+834,2018,January,east,milk,whole,569,2219.1
+835,2018,January,west,milk,low fat,551,1173.63
+836,2017,April,north,cereal,Raisin Bran,717,2545.35
+837,2018,January,south,ice cream,Edies,949,2903.94
+838,2018,August,south,milk,whole,995,3900.4
+839,2017,September,north,milk,low fat,835,2897.45
+840,2017,December,west,milk,skim,699,1964.19
+841,2018,July,south,fruit,apples,683,1748.48
+842,2017,January,south,milk,chocolate,858,2342.34
+843,2017,May,south,ice cream,Edies,628,1990.76
+844,2017,May,south,fruit,grapes,706,2619.26
+845,2018,February,south,ice cream,Breyers,708,2067.36
+846,2019,October,north,ice cream,Edies,976,2898.72
+847,2018,September,west,fruit,grapes,870,2757.9
+848,2017,September,west,fruit,cherries,627,2213.31
+849,2018,May,south,ice cream,Breyers,722,2483.68
+850,2017,May,north,fruit,cherries,667,1834.25
+851,2017,September,east,ice cream,Breyers,931,3630.9
+852,2019,December,north,cereal,Cheerios,730,2525.8
+853,2017,February,east,milk,low fat,998,2055.88
+854,2018,November,north,fruit,plums,934,2036.12
+855,2018,March,west,ice cream,Breyers,704,1619.2
+856,2018,May,south,cereal,Cheerios,714,1663.62
+857,2018,November,south,ice cream,Breyers,827,2522.35
+858,2017,September,west,cereal,Special K,734,1607.46
+859,2017,November,west,ice cream,Breyers,566,1398.02
+860,2019,June,west,fruit,grapes,820,2509.2
+861,2019,July,east,ice cream,Breyers,556,1362.2
+862,2018,May,north,ice cream,Edies,852,1746.6
+863,2019,June,north,milk,skim,608,1957.76
+864,2017,April,east,fruit,grapes,596,1293.32
+865,2019,November,east,milk,whole,871,2151.37
+866,2017,September,west,ice cream,Ben and Jerry's,611,2107.95
+867,2019,February,east,cereal,Special K,941,3632.26
+868,2019,March,north,cereal,Raisin Bran,679,2593.78
+869,2018,December,west,milk,skim,929,2034.51
+870,2017,June,north,ice cream,Edies,626,2134.66
+871,2019,June,west,milk,skim,713,2830.61
+872,2017,October,west,cereal,Cheerios,850,2235.5
+873,2017,September,south,milk,whole,952,2399.04
+874,2018,June,north,cereal,Special K,736,1751.68
+875,2017,January,north,fruit,grapes,925,2099.75
+876,2019,April,west,ice cream,Ben and Jerry's,800,2952
+877,2019,November,east,fruit,grapes,531,2028.42
+878,2019,February,south,ice cream,Edies,933,2687.04
+879,2017,June,north,fruit,cherries,877,2166.19
+880,2018,May,south,milk,chocolate,547,1717.58
+881,2019,January,east,fruit,plums,847,3320.24
+882,2019,December,south,fruit,plums,608,1513.92
+883,2017,May,west,cereal,Raisin Bran,749,1760.15
+884,2017,December,north,cereal,Special K,685,1876.9
+885,2019,August,east,cereal,Raisin Bran,770,2310
+886,2017,January,south,ice cream,Ben and Jerry's,546,2020.2
+887,2018,August,north,ice cream,Breyers,914,2650.6
+888,2019,September,west,cereal,Raisin Bran,602,1342.46
+889,2017,June,west,milk,chocolate,748,2296.36
+890,2019,January,east,fruit,plums,975,3168.75
+891,2019,January,south,ice cream,Breyers,947,3503.9
+892,2019,November,south,fruit,apples,556,1228.76
+893,2017,January,east,cereal,Special K,734,1534.06
+894,2019,July,west,milk,skim,799,2365.04
+895,2018,October,west,fruit,cherries,582,1309.5
+896,2017,July,north,ice cream,Edies,701,1759.51
+897,2017,May,south,ice cream,Edies,732,1837.32
+898,2019,October,east,fruit,cherries,950,1976
+899,2017,June,east,ice cream,Breyers,902,3066.8
+900,2019,November,west,fruit,grapes,994,3091.34
+901,2018,December,north,cereal,Raisin Bran,724,1723.12
+902,2017,November,south,milk,low fat,803,2449.15
+903,2018,September,east,ice cream,Edies,770,2918.3
+904,2017,March,south,ice cream,Breyers,542,1669.36
+905,2018,March,south,ice cream,Breyers,589,1413.6
+906,2019,August,north,milk,whole,945,2249.1
+907,2019,April,east,fruit,apples,630,2312.1
+908,2017,August,north,milk,skim,637,2497.04
+909,2018,April,east,milk,low fat,670,2566.1
+910,2018,January,south,cereal,Special K,720,2534.4
+911,2018,October,west,fruit,grapes,957,2976.27
+912,2019,January,south,milk,skim,538,1753.88
+913,2018,March,west,fruit,apples,575,1903.25
+914,2017,February,west,cereal,Raisin Bran,529,1327.79
+915,2018,November,south,ice cream,Edies,696,2526.48
+916,2019,February,north,fruit,cherries,638,1952.28
+917,2018,April,south,cereal,Raisin Bran,981,2099.34
+918,2019,July,west,ice cream,Breyers,729,2493.18
+919,2019,March,east,cereal,Raisin Bran,568,1868.72
+920,2019,February,north,cereal,Raisin Bran,514,1814.42
+921,2017,May,north,ice cream,Edies,890,3301.9
+922,2019,August,east,milk,chocolate,602,1595.3
